@@ -2,8 +2,6 @@
 #coding: utf-8
 lista = [[''], ['0', '1', '1', '1'], ['0', '2', '2', '2'], ['0', '3', '3', '3']]
 
-teste
-
 
 # Função que define o tabuleiro
 def tabuleiro():
