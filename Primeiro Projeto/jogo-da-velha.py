@@ -57,7 +57,7 @@ def jogada():
 
 # Início do cógido onde as funções são chamadas
 
-while again == 'yes':
+whie again == 'yes':
     tabuleiro()
     jogada()
     again = input("""Deseja jogar novamente?:\n""")
