@@ -34,4 +34,5 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest
-        pytest "/home/runner/work/Python/Primeiro Projeto/jogo da velha.py"
+        pytest 
+  #"/home/runner/work/Python/Primeiro Projeto/jogo da velha.py"
